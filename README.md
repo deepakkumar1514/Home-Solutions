@@ -1,6 +1,6 @@
-# Final Year Project
+# Future Ready Talent Project
 
-## [Live](https://home-services-bhavya.herokuapp.com/) demo
+##
 
 #### Technology stack
 - Mongodb

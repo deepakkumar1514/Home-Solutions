@@ -313,7 +313,7 @@ const Index = (props) => {
           </div>
         </Content>
         <Footer style={{ textAlign: "center" }}>
-          Bhavya Design ©{new Date().getFullYear()} Created by bhavyabhut
+          HomeSolutions Design ©{new Date().getFullYear()} Created by Deepak Kumar
         </Footer>
       </Layout>
     </Layout>

@@ -253,7 +253,7 @@ const Index = (props) => {
                       color: "white",
                     }}
                     className="locationCity"
-                    placeholder={'ex "shree ram"'}
+                    placeholder={'ex "Bob Stephen"'}
                     value={search.name}
                     onChange={(value) => {
                       fieldOnChange("name", value.target.value);
